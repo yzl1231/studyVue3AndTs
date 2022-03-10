@@ -1,5 +1,6 @@
 <template>
     <teleport to="#model">
+        <!-- 可挂载到指定的DOM元素上 -->
         <div id="center">
             <h3>弹出框组件</h3>
         </div>
